@@ -39,14 +39,16 @@ license). Early adopters and collaborators include industry players across the g
 If you'd like to adopt the spec, or list yourself as a backer, file a pull request and we'll get you added!
 
 
-| Contributor       | Website                                             | Category                                                           | Location                  |
-|-------------------|-----------------------------------------------------|:-------------------------------------------------------------------|:--------------------------|
-| Bloombox          | [bloombox.io](https://bloombox.io)                  | Software Provider                                                  | San Francisco, California |
-| Caliva            | [caliva.menu](https://caliva.menu)                  | Cultivator, Retailer, Manufacturer                                 | San Jose, California      |
-| Chalice Farms/GLH | [chalice.menu](https://chalice.menu)                | Cultivator, Retailer, Manufacturer, Multi-Location                 | Portland, Oregon          |
-| Abatin Sacramento | [abatinsacramento.com](http://abatinsacramento.com) | Retailer                                                           | Sacramento, California    |
-| M3 Mobile Meds    | [m3meds.com](http://www.m3meds.com)                 | Distributor                                                        | Sacramento, California    |
-| Nabis             | [nabisholdings.com](https://www.nabisholdings.com)  | Cultivator, Retailer, Manufacturer, Multi-Location, International  | Toronto, Ontario, CA      |
+| Contributor       | Website                                              | Category                                                           | Location                  |
+|-------------------|------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------|
+| Cookies           | [cookies.co](https://cookies.co)                     | Cultivator, Retailer, Manufacturer                                 | San Francisco, California |
+| Green Thumb       | [gtigrows.com](https://gtigrows.com)                 | Cultivator, Retailer, Manufacturer                                 | Chicago, Illinois |
+| Golden Leaf       | [chalicefarms.com](https://chalicefarms.com)         | Cultivator, Retailer, Manufacturer                                 | Portland, Oregon |
+| Caliva            | [caliva.menu](https://caliva.menu)                   | Cultivator, Retailer, Manufacturer                                 | San Jose, California      |
+| Greendata         | [greendata.ai](https://greendata.ai)                 | Software Provider                                                  | San Francisco, California |
+| Bloombox          | [bloombox.io](https://bloombox.io)                   | Software Provider                                                  | San Francisco, California |
+| Abatin Wellness   | [abatinsacramento.com](https://abatinsacramento.com) | Retailer                                                           | Sacramento, California |
+
 
 ### Contributing
 
